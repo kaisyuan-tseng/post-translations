@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Translations 1.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-11-04 00:00+0800\n"
+"PO-Revision-Date: 2026-11-04 00:00+0800\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: manual\n"
+
+msgid "Translations"
+msgstr "多语言译文"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Excerpt"
+msgstr "摘要"
+
+msgid "Body"
+msgstr "正文"
+
+msgid "The original (%s) is the title, excerpt and content in the editor above. Fill in one tab per language; any language left empty falls back to the original on the front end."
+msgstr "原文（%s）就是页面顶部编辑器里的标题、摘要与正文。下面按语言分标签页填译文；哪个语言留空，前台就回退显示原文。"
+
+msgid "%s (original)"
+msgstr "%s（原文）"
+
+msgid "Translation exists"
+msgstr "已有译文"
+
+msgid "The original content lives in the editor above — nothing to fill in here. Languages are declared through the %s filter."
+msgstr "原文内容就是上面编辑器里的标题、摘要与正文，这里不用重复填。语言清单由 %s 过滤器声明。"
+
+msgid "Edit translation"
+msgstr "编辑译文"
+
+msgid "Missing parameters."
+msgstr "参数不完整。"
+
+msgid "You are not allowed to edit this post."
+msgstr "你没有编辑这篇文章的权限。"
+
+msgid "The post does not exist or has been deleted."
+msgstr "文章不存在或已被删除。"
+
+msgid "No languages have been declared yet. Add them through the %s filter."
+msgstr "还没有声明任何语言，请先用 %s 过滤器配置。"
+
+msgid "Edit %s translation"
+msgstr "编辑「%s」译文"
+
+msgid "Edit %s original"
+msgstr "编辑 %s 原文"
+
+msgid "Saved the %s translation."
+msgstr "已保存%s译文。"
+
+msgid "Original:"
+msgstr "原文："
+
+msgid "Front-end URL:"
+msgstr "前端地址："
+
+msgid "original"
+msgstr "原文"
+
+msgid "Has content"
+msgstr "已有内容"
+
+msgid "Save %s translation"
+msgstr "保存%s译文"
+
+msgid "Only this translation is written; the %s original stays untouched."
+msgstr "只写这一语言的译文，%s原文不受影响。"
+
+msgid "%s character"
+msgstr "%s 个字符"
+
+msgid "%s characters"
+msgstr "%s 个字符"
+
+msgid "Languages"
+msgstr "语言"
+
+msgid "Edit the %s original"
+msgstr "编辑文章本体（%s）"
+
+msgid "Add %s translation"
+msgstr "添加%s译文"
+
+msgid "All translation statuses"
+msgstr "全部译文状态"
+
+msgid "Missing %s translation"
+msgstr "缺%s译文"
+
+msgid "no languages have been declared yet, so no translation UI is shown. Declare them through the %s filter, for example:"
+msgstr "还没有声明任何语言，因此后台不会出现译文入口。用 %s 过滤器声明即可，例如："
+
+msgid "(no title)"
+msgstr "（无标题）"
+
+msgid "Not translated"
+msgstr "未翻译"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Open the full-page editor to change title, excerpt and body together."
+msgstr "在整篇编辑页里同时改标题、摘要与正文"
+
+msgid "Full page"
+msgstr "整篇"
+
+msgid "%s translation saved."
+msgstr "%s译文已保存"
+
+msgid "Could not save the translation."
+msgstr "保存失败"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Saving…"
+msgstr "保存中…"
+
+msgid "Save translation"
+msgstr "保存译文"
+
+msgid "Clear"
+msgstr "清空"
+
+msgid "This %s version shares the same URL as the original — only the language prefix differs. Empty fields fall back to the original on the front end. HTML is allowed in the body."
+msgstr "这篇%s译文与原文共用同一个地址，只差语言前缀；留空的字段前端会回退原文。正文可以写 HTML。"
+
+msgid "Leave empty to use the original title"
+msgstr "留空则前端显示原文标题"
+
+msgid "Leave empty to use the original excerpt"
+msgstr "留空则前端显示原文摘要"
+
+msgid "Body (HTML)"
+msgstr "正文（HTML）"
+
+msgid "Save the post as a draft first, then come back to edit the translation."
+msgstr "先保存草稿，再回来编辑译文。"
+
+msgid "Could not load translations."
+msgstr "读取失败"
+
+msgid "%1$d of %2$d translations filled in. Rebuild the site for changes to reach the front end."
+msgstr "已完成 %1$d / %2$d 种译文。保存后需重新构建站点才会出现在前端。"
+
+msgid "Reload"
+msgstr "重新读取"

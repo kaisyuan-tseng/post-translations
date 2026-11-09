@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Post Translations 1.5.0\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-11-04 00:00+0800\n"
+"PO-Revision-Date: 2026-11-04 00:00+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: manual\n"
+
+#: post-translations.php
+msgid "Translations"
+msgstr ""
+
+#: post-translations.php
+msgid "Title"
+msgstr ""
+
+#: post-translations.php
+msgid "Excerpt"
+msgstr ""
+
+#: post-translations.php
+msgid "Body"
+msgstr ""
+
+#: post-translations.php
+msgid "The original (%s) is the title, excerpt and content in the editor above. Fill in one tab per language; any language left empty falls back to the original on the front end."
+msgstr ""
+
+#: post-translations.php
+msgid "%s (original)"
+msgstr ""
+
+#: post-translations.php
+msgid "Translation exists"
+msgstr ""
+
+#: post-translations.php
+msgid "The original content lives in the editor above — nothing to fill in here. Languages are declared through the %s filter."
+msgstr ""
+
+#: post-translations.php
+msgid "Edit translation"
+msgstr ""
+
+#: post-translations.php
+msgid "Missing parameters."
+msgstr ""
+
+#: post-translations.php
+msgid "You are not allowed to edit this post."
+msgstr ""
+
+#: post-translations.php
+msgid "The post does not exist or has been deleted."
+msgstr ""
+
+#: post-translations.php
+msgid "No languages have been declared yet. Add them through the %s filter."
+msgstr ""
+
+#: post-translations.php
+msgid "Edit %s translation"
+msgstr ""
+
+#: post-translations.php
+msgid "Edit %s original"
+msgstr ""
+
+#: post-translations.php
+msgid "Saved the %s translation."
+msgstr ""
+
+#: post-translations.php
+msgid "Original:"
+msgstr ""
+
+#: post-translations.php
+msgid "Front-end URL:"
+msgstr ""
+
+#: post-translations.php
+msgid "original"
+msgstr ""
+
+#: post-translations.php
+msgid "Has content"
+msgstr ""
+
+#: post-translations.php
+msgid "Save %s translation"
+msgstr ""
+
+#: post-translations.php
+msgid "Only this translation is written; the %s original stays untouched."
+msgstr ""
+
+#: post-translations.php
+msgid "%s character"
+msgstr ""
+
+#: post-translations.php
+msgid "%s characters"
+msgstr ""
+
+#: post-translations.php
+msgid "Languages"
+msgstr ""
+
+#: post-translations.php
+msgid "Edit the %s original"
+msgstr ""
+
+#: post-translations.php
+msgid "Add %s translation"
+msgstr ""
+
+#: post-translations.php
+msgid "All translation statuses"
+msgstr ""
+
+#: post-translations.php
+msgid "Missing %s translation"
+msgstr ""
+
+#: post-translations.php
+msgid "no languages have been declared yet, so no translation UI is shown. Declare them through the %s filter, for example:"
+msgstr ""
+
+#: post-translations.php
+msgid "(no title)"
+msgstr ""
+
+#: post-translations.php
+msgid "Not translated"
+msgstr ""
+
+#: post-translations.php
+msgid "Edit"
+msgstr ""
+
+#: post-translations.php
+msgid "Add"
+msgstr ""
+
+#: post-translations.php
+msgid "Open the full-page editor to change title, excerpt and body together."
+msgstr ""
+
+#: post-translations.php
+msgid "Full page"
+msgstr ""
+
+#: post-translations.php
+msgid "%s translation saved."
+msgstr ""
+
+#: post-translations.php
+msgid "Could not save the translation."
+msgstr ""
+
+#: post-translations.php
+msgid "Cancel"
+msgstr ""
+
+#: post-translations.php
+msgid "Saving…"
+msgstr ""
+
+#: post-translations.php
+msgid "Save translation"
+msgstr ""
+
+#: post-translations.php
+msgid "Clear"
+msgstr ""
+
+#: post-translations.php
+msgid "This %s version shares the same URL as the original — only the language prefix differs. Empty fields fall back to the original on the front end. HTML is allowed in the body."
+msgstr ""
+
+#: post-translations.php
+msgid "Leave empty to use the original title"
+msgstr ""
+
+#: post-translations.php
+msgid "Leave empty to use the original excerpt"
+msgstr ""
+
+#: post-translations.php
+msgid "Body (HTML)"
+msgstr ""
+
+#: post-translations.php
+msgid "Save the post as a draft first, then come back to edit the translation."
+msgstr ""
+
+#: post-translations.php
+msgid "Could not load translations."
+msgstr ""
+
+#: post-translations.php
+msgid "%1$d of %2$d translations filled in. Rebuild the site for changes to reach the front end."
+msgstr ""
+
+#: post-translations.php
+msgid "Reload"
+msgstr ""
